@@ -1,0 +1,13 @@
+h6 {
+	font-weight: bold;
+}
+
+.button {    
+	height: 53px;
+    width: 219px;
+    margin-top: 20px;
+}
+
+.button {
+	background: red;
+}
